@@ -22,7 +22,7 @@ Machine Learning: Natural Language Processing (NLP) libraries for efficient text
 
 # **📂 Project Structure**
 Here’s a quick glance at the structure:
-├── Autocorrect Tool.ipynb  # Core logic for autocorrection
-├── app.py                  # Flask app for running the tool
-├── README.md               # You're reading it now!
-└── requirements.txt        # Dependencies for the project
+- Autocorrect Tool.ipynb  # Core logic for autocorrection
+- app.py                  # Flask app for running the tool
+- README.md               # You're reading it now!
+- requirements.txt        # Dependencies for the project
